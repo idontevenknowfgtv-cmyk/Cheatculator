@@ -1,0 +1,6 @@
+{
+  "name": "Casio fx-991 Stealth Assistant",
+  "description": "Casio fx-991 calculator display with direct Gemini voice queries and an instant test panic hide switch.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
